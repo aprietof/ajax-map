@@ -11,7 +11,7 @@ Simple web application that based on zipcode input renders a map using google's 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/aprietof/CMS. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/aprietof/ajax-map. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
