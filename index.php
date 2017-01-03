@@ -1,7 +1,6 @@
 <?php
   session_start();
   if (!isset($_SESSION["zipcode"])) { $_SESSION["zipcode"] = 'usa'; }
-
 ?>
 
 <html>
@@ -36,11 +35,11 @@
   </div>
 
   <iframe
-  id="map"
-  width="600"
-  height="450"
-  frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDYMzEKDNUBtn2MNgEgAPm5TTL9QXhk4fQ&q=usa" allowfullscreen>
+    id="map"
+    width="600"
+    height="450"
+    frameborder="0" style="border:0"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDYMzEKDNUBtn2MNgEgAPm5TTL9QXhk4fQ&q=usa" allowfullscreen>
   </iframe>
 
   <script>
